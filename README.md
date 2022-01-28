@@ -1,5 +1,12 @@
 # CRUD with Nodejs, Express and Mongodb
 
+<b>Subscribe to My Youtube Channel:</b><br>
+https://www.youtube.com/NerdAutodidata
+
+<b>Video Tutorial</b><br>
+You can see my youtube video for this project in<br>
+https://www.youtube.com/watch?v=fOcJ5VZ8zbc
+
 ![](docs/screenshot.png)
 
 This is a Multi page application using nodejs mongodb and handlebars

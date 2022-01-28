@@ -23,7 +23,7 @@ docker-compose up
 
 ```bash
 git clone https://github.com/FlavioAro/nodejs-mongodb-crud
-cd express-mongodb-crud
+cd nodejs-mongodb-crud
 npm install
 npm run build
 npm start
